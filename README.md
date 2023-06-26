@@ -9,6 +9,7 @@ SO THAT I can safely close the browser and know my schedules are still there.
 
 
 ## Acceptance Criteria  
+GIVEN I am using a daily planner to create a schedule  
 WHEN I open the work day scheduler  
 THEN I am presented with a title, todays date and what day it is, and also 9 blocks with the hours 9am through to 5pm.  
 WHEN I look at the blocks  
